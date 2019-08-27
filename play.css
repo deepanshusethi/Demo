@@ -1,0 +1,17 @@
+body{
+background-image:url(AT.jpg);
+text-align:center;
+font-size:40px;
+}
+input[type=Range]
+{
+width:60%;
+float:center;	
+}
+input[type=button] {
+width:200px;
+height:20px;
+background-color:red;
+color:white;
+border-radius:5px;
+}

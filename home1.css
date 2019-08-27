@@ -1,0 +1,40 @@
+
+
+body
+{
+	background-image:url(AT.jpg);
+text-align :center;
+background-size : cover;
+	
+
+}
+.cc{
+	width:50%;
+	float:left;
+	
+	
+	font-size:150%;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.aa{ margin-right:0px;
+	float:right;
+	width:40%;
+	
+}
+
+.bb{
+	float:left;
+	width:50%;
+	height:  400px;
+	background-color:rgba(0,0,0,0.5);
+	margin:0:auto;
+	margin-top:40px;
+	padding-top:10px;
+	padding-left:30px;
+	border-radius :15px;
+	-webkit-border-radius:15px;
+	-o-border-radius:15px;
+	-moz-border-radius:15px;
+	color:white;
+	font-weight:bolder;
+}
